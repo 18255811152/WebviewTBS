@@ -14,9 +14,7 @@ import com.tencent.smtt.sdk.WebViewClient;
 
 public class WebviewVideoActivity extends Activity {
     //    private String url = "https://www.suomusic.com/dryCargoInfo.html?mt=show&id=2";  //测试网址选择1
-//    private String url = "https://v.qq.com/index.html";//测试网址选择2腾讯视频
-//    private String url1 = "https://m.500.com/datachart/ssc/zx/jb.html";
-    private String url = "https://m.500.com/datachart/sd/jb.html";
+    private String url = "https://v.qq.com/index.html";//测试网址选择2腾讯视频
 
     private com.tencent.smtt.sdk.WebView webView;
     private ProgressBar progressBar;
